@@ -1,0 +1,37 @@
+body{
+  background: url(back.jpeg) no-repeat center center fixed;
+-webkit-background-size: cover;
+background-size: cover;
+font-family: 'Source Code Pro', monospace;
+}
+.rowheight{
+  height: 300px;
+}
+h1{
+  color: #000;
+  font-size: 3.4em;
+}
+.footer{
+  background-color: transparent;
+  position: fixed;
+  bottom: 0;
+  height: 35px;
+}
+p{
+  font-size: 20px;
+  padding: 5px;
+}
+.bg{
+  background: #fff;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.right{
+  float:right;
+}
+.left{
+  float: left;
+}
+.ime{
+border-radius: 15px;
+}

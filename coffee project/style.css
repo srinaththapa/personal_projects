@@ -1,0 +1,21 @@
+body{
+  background: url('coffee.png') no-repeat center center fixed;
+  background-size: cover;
+}
+.coff{
+  text-align: center;
+  margin-top: 10%;
+  font-family: 'Pacifico', cursive;
+  color: #990000;
+  font-size: 50px;
+  line-height:50px;
+  -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: #000;
+
+  }
+  .ime{
+    height:370px;
+    width:700px;
+    padding-top: 50px;
+    border-radius: 300px 0px 300px 300px;
+  }
